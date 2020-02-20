@@ -2,4 +2,10 @@
     <string name="app_name">Saisons</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
+    <string name="saison_printemps">Printemps</string>
+    <string name="saison_été">Été</string>
+    <string name="saison_automne">Automne</string>
+    <string name="saison_hiver">Hiver</string>
+    <string name="titre_section0">printemps</string>
+    <string name="saison_saison">Saisons</string>
 </resources>
